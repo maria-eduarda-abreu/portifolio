@@ -1,0 +1,81 @@
+{
+    "name": "Maria Eduarda Abreu",
+    "photo": "https://avatars.githubusercontent.com/u/137839112?s=400&u=c6d9ec46b7905dab4ec119237b79b0dc79047526&v=4",
+    "job": "Developer Backend",
+    "location": "Belo Horizonte - BR",
+    "phone": "(31) 9 7338-4925",
+    "email": "mariaeduardaabreu005@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "javascript",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/javascript.png"
+        },
+        {
+          "name": "node.js",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "python",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+        },
+        {
+          "name": "csharp",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+        },
+        {
+          "name": ".net",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/.net.png"
+        },
+        {
+          "name": "git",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+        },
+        {
+          "name": "gihub",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/githurb.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)",
+      "Espanhol (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": ".",
+        "period": ".",
+        "description": "."
+      },
+      {
+        "name": ".",
+        "period": ".",
+        "description": "."
+      },
+      {
+        "name": ".",
+        "period": ".",
+        "description": "."
+      }
+    ]
+  }
