@@ -26,8 +26,7 @@
         {
           "name": ".net",
           "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/net.png"
-        }
-        
+        } 
       ],
       "softSkills": [
         "Empatia",
@@ -50,7 +49,7 @@
       },
       {
         "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "url": "https://github.com/MariaAbreu005/portifolio.git",
         "github": true
       }
     ],
