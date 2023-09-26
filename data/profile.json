@@ -13,28 +13,21 @@
         },
         {
           "name": "node.js",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/nodejs.png"
         },
         {
           "name": "python",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/py.png"
         },
         {
           "name": "csharp",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/csharp.png"
         },
         {
           "name": ".net",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/.net.png"
-        },
-        {
-          "name": "git",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
-        },
-        {
-          "name": "gihub",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/githurb.png"
+          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/net.png"
         }
+        
       ],
       "softSkills": [
         "Empatia",
