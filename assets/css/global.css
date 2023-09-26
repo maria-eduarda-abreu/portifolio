@@ -4,7 +4,7 @@
 }
 @font-face {
     font-family: 'neue-roboto.ttf';
-    src: url('/assets/fonts/neue-roboto.ttf');
+    src: url('../fonts/neue-roboto.ttf');
 }
 
 body {
@@ -34,7 +34,7 @@ body {
 
 .main::before{
     content: '';
-    background-image: url('/assets/img/icons/background.svg');
+    background-image: url('../img/icons/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -48,7 +48,7 @@ body {
 
 .main::after{
     content: '';
-    background-image: url('/assets/img/icons/background.svg');
+    background-image: url('../img/icons/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
