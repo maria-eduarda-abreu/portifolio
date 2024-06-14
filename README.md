@@ -1,5 +1,5 @@
 # portifolio
-link:  <a href="https://maria-eduarda-abreu.github.io/portifolio/">
+link: https://maria-eduarda-abreu.github.io/portifolio/
 
 Esse é o projeto final do meu curso de javascript ministrado pela DIO, utilizei de tecnologias como html, css e javascript. 
 
