@@ -4,7 +4,7 @@
     "job": "Developer Backend",
     "location": "Belo Horizonte - BR",
     "phone": "(31) 9 7338-4925",
-    "email": "mariaeduardaabreu005@gmail.com",
+    "email": "contato.mariaeduardaabreu@gmail.com",
     "skills": {
       "hardSkills": [
         {
@@ -29,8 +29,8 @@
         } 
       ],
       "softSkills": [
-        "Empatia",
-        "Liderança",
+        "comunicação",
+        "adaptabilidade",
         "Trabalho em equipe",
         "Flexibilidade",
         "Organização"
@@ -39,11 +39,11 @@
     "languages": [
       "Português BR",
       "Inglês (intermediário)",
-      "Espanhol (intermediário)"
+
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "name": "Análise e Desenvolvimento De Software, FIAP- 06/2026",
         "url": ".",
         "github": true
       },
@@ -55,19 +55,18 @@
     ],
     "professionalExperience": [
       {
-        "name": ".",
-        "period": ".",
-        "description": "."
+        "name": "Tec Celulares",
+        "period": "10 meses",
+        "description": 
+          "
+            - Suporte de TI: Diagnóstico e resolução de problemas técnicos, garantindo funcionamento
+            eficiente dos sistemas.
+            - Gestão de site: Atualização de conteúdo e manutenção da plataforma web.
+            - Resolução de Problemas: Identificação e solução ágil de desafios técnicos, melhorando
+            eficiência operacional.
+            - Design e Criativos: Criação de materiais visuais para comunicação digital.
+          "
       },
-      {
-        "name": ".",
-        "period": ".",
-        "description": "."
-      },
-      {
-        "name": ".",
-        "period": ".",
-        "description": "."
-      }
+      
     ]
   }
