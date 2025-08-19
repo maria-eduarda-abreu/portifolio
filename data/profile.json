@@ -44,7 +44,7 @@
         "Adaptabilidade",
         "Trabalho em Grupo",
         "Comunicação",
-        "Resolção de problemas",
+        "Resolução de problemas",
         "Organização"
       ]
     },
@@ -53,19 +53,19 @@
       "Inglês B2"
 
     ],
-    "projects Experience": [
+    "projectsExperience": [
       {
         "name": "OrganizeDin",
         "url": "https://github.com/maria-eduarda-abreu/OrganizeDin",
         "github": true
       },
       {
-        "name": "OrganizeDin",
-        "url": "https://github.com/maria-eduarda-abreu/OrganizeDin",
+        "name": "Calculadora Ciêntifica",
+        "url": "https://github.com/maria-eduarda-abreu/ScientificCalculator",
         "github": true
       }
     ],
-    "professional Experience": [
+    "professionalExperience": [
       {
         "name": "Tec Celulares",
         "period": "1 ano e 1 mês",
@@ -75,7 +75,7 @@
     "Formation":[
     {
       "name": "Análise e Desenvolvimento de Sistemas, FIAP",
-      "period": "2 aos e 6 meses",
+      "period": "2 anos",
       "description": "Graduação tecnólogo com duaração de 2 anos mais 1 ano extendido"
     }
     ]
