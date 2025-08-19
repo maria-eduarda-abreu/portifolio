@@ -1,7 +1,7 @@
 {
     "name": "Maria Eduarda Abreu",
     "photo": "https://avatars.githubusercontent.com/u/137839112?s=400&u=c6d9ec46b7905dab4ec119237b79b0dc79047526&v=4",
-    "job": "Developer Backend",
+    "job": "Developer FullStack Jr",
     "location": "Belo Horizonte - BR",
     "phone": "(31) 9 7338-4925",
     "email": "contato.mariaeduardaabreu@gmail.com",
@@ -38,7 +38,7 @@
     },
     "languages": [
       "Português BR",
-      "Inglês (intermediário)",
+      "Inglês B2"
 
     ],
     "portfolio": [
@@ -57,16 +57,7 @@
       {
         "name": "Tec Celulares",
         "period": "10 meses",
-        "description": 
-          "
-            - Suporte de TI: Diagnóstico e resolução de problemas técnicos, garantindo funcionamento
-            eficiente dos sistemas.
-            - Gestão de site: Atualização de conteúdo e manutenção da plataforma web.
-            - Resolução de Problemas: Identificação e solução ágil de desafios técnicos, melhorando
-            eficiência operacional.
-            - Design e Criativos: Criação de materiais visuais para comunicação digital.
-          "
-      },
-      
+        "description": ""
+      }
     ]
   }
