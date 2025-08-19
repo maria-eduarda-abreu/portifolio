@@ -62,7 +62,7 @@ function updateProfessionalExperience(profileData) {
 }
 
 function updateFormation(profileData) {
-    const formation = document.getElementById('profile.formation')
+    const formation = document.getElementById('profile.Formation')
     formation.innerHTML = profileData.Formation.map(formationItem => {
         return `
             <li>
