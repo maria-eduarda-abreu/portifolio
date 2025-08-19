@@ -9,30 +9,42 @@
       "hardSkills": [
         {
           "name": "javascript",
-          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/js.png"
-        },
-        {
-          "name": "node.js",
-          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/nodejs.png"
+          "logo": "https://raw.githubusercontent.com/maria-eduarda-abreu/portifolio/main/data/img/js.png"
         },
         {
           "name": "python",
-          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/py.png"
+          "logo": "https://raw.githubusercontent.com/maria-eduarda-abreu/portifolio/main/data/img/py.png"
         },
         {
-          "name": "csharp",
-          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/csharp.png"
+          "name": "java",
+          "logo": "https://raw.githubusercontent.com/maria-eduarda-abreu/portifolio/main/data/img/java.png"
         },
         {
-          "name": ".net",
-          "logo": "https://raw.githubusercontent.com/MariaAbreu005/portifolio/main/data/img/net.png"
-        } 
+          "name": "angular",
+          "logo": "https://raw.githubusercontent.com/maria-eduarda-abreu/portifolio/main/data/img/angular.png"
+        }, 
+        {
+          "name": "springboot",
+          "logo": "https://raw.githubusercontent.com/maria-eduarda-abreu/portifolio/main/data/img/springboot.png"
+        },
+        {
+          "name": "Oracle DB",
+          "logo": "https://raw.githubusercontent.com/maria-eduarda-abreu/portifolio/main/data/img/oracledb.png"
+        },
+        {
+          "name": "SQL",
+          "logo": "https://raw.githubusercontent.com/maria-eduarda-abreu/portifolio/main/data/img/sql.png"
+        },
+        {
+          "name": "aws",
+          "logo": "https://raw.githubusercontent.com/maria-eduarda-abreu/portifolio/main/data/img/aws.png"
+        }
       ],
       "softSkills": [
-        "comunicação",
-        "adaptabilidade",
-        "Trabalho em equipe",
-        "Flexibilidade",
+        "Adaptabilidade",
+        "Trabalho em Grupo",
+        "Comunicação",
+        "Resolção de problemas",
         "Organização"
       ]
     },
@@ -41,23 +53,30 @@
       "Inglês B2"
 
     ],
-    "portfolio": [
+    "projects Experience": [
       {
-        "name": "Análise e Desenvolvimento De Software, FIAP- 06/2026",
-        "url": ".",
+        "name": "OrganizeDin",
+        "url": "https://github.com/maria-eduarda-abreu/OrganizeDin",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/MariaAbreu005/portifolio.git",
+        "name": "OrganizeDin",
+        "url": "https://github.com/maria-eduarda-abreu/OrganizeDin",
         "github": true
       }
     ],
-    "professionalExperience": [
+    "professional Experience": [
       {
         "name": "Tec Celulares",
-        "period": "10 meses",
-        "description": ""
+        "period": "1 ano e 1 mês",
+        "description": "Realizei a criação de desings e criativos para divulgação dos produtos, gestão, atualização e manutenção do site, gestão do estoque de mercadorias, criação de planilhas e embalagem de produtos"
       }
+    ],
+    "Formation":[
+    {
+      "name": "Análise e Desenvolvimento de Sistemas, FIAP",
+      "period": "2 aos e 6 meses",
+      "description": "Graduação tecnólogo com duaração de 2 anos mais 1 ano extendido"
+    }
     ]
   }
