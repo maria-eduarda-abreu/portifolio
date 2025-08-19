@@ -1,5 +1,3 @@
-
- 
 function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo
@@ -38,9 +36,9 @@ function updateLanguages(profileData) {
     languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
 }
 
-function updatePortfolio(profileData) {
-    const portfolio = document.getElementById('profile.portfolio')
-    portfolio.innerHTML = profileData.portfolio.map(project => {
+function updateProjectsExperience(profileData) {
+    const projectsExperience = document.getElementById('profile.projectsExperience')
+    projectsExperience.innerHTML = profileData.projectsExperience.map(project => {
         return `
             <li>
                 <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
@@ -63,12 +61,26 @@ function updateProfessionalExperience(profileData) {
     }).join('')
 }
 
+function updateFormation(profileData) {
+    const formation = document.getElementById('profile.formation')
+    formation.innerHTML = profileData.Formation.map(formationItem => {
+        return `
+            <li>
+                <h3 class="title">${formationItem.name}</h3>
+                <p class="period">${formationItem.period}</p>
+                <p>${formationItem.description}</p>
+            </li>
+        `
+    }).join('')
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
-    updatePortfolio(profileData)
+    updateProjectsExperience(profileData)
     updateProfessionalExperience(profileData)
+    updateFormation(profileData)
 })()
