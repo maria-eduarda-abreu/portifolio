@@ -60,8 +60,18 @@
         "github": true
       },
       {
+        "name": "EducaReal",
+        "url": "https://github.com/maria-eduarda-abreu/EducaReal",
+        "github": true
+      },
+      {
+        "name": "ConvertaPara",
+        "url" : "https://github.com/maria-eduarda-abreu/ConvertaPara",
+        "github": true
+      },
+      {
         "name": "Calculadora Ciêntifica",
-        "url": "https://github.com/maria-eduarda-abreu/ScientificCalculator",
+        "url" : "https://github.com/maria-eduarda-abreu/ScientificCalculator",
         "github": true
       }
     ],
